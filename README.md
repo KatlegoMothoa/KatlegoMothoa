@@ -20,7 +20,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 💻 Social media accounts
--    YouTube: [Katlego Mothoa](https://www.youtube.com/)  
+-    YouTube: [Katlego Mothoa](@KatlegoMothoa-s1b)  
 - 🐦 Twitter: [Katlego Mothoa](https://x.com/kmothoa50)  
 - 💼 LinkedIn: [Katlego Mothoa](https://www.linkedin.com/in/katlego-mothoa-5b3523362/)  
 - 💌 Email: kmothoa50@gmail.com
