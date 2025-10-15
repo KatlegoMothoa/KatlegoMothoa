@@ -18,7 +18,7 @@
 👩🏻‍💻 Aspiring Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying Computer Science at Tshwane University of Technology, South Africa<br/>
 🎨 Still mastering my skills on creating web apps, java apps and games so rest assured the journey will be exciting!<br/>
-💭 Currently working on my own app that will be released soon!<br/>
+💭 Currently working on my own app!<br/>
 
 > ## My Focus Areas
 - **Frontend** Web Development
