@@ -22,8 +22,7 @@
 
 > ## My Focus Areas
 - **Frontend** Web Development
-- **App** Development
-- **UI/UX** Design
+- **App/Game** Development
 - Responsive, user-first experiences
 
 > ## GitHub Stats & Trophies
